@@ -17,3 +17,7 @@
 /JavaEE/ClienteSgaWs/target/
 /JavaEE/sga-rest-ws/target/
 /JavaEE/ClienteSgaRestWS/target/
+/JavaEE/sga-jee-seguridad/target/
+/JavaEE/ClienteEjbSeguridad/target/
+/JavaEE/ClienteSgaRestWSSeguridad/target/
+/JavaEE/ClienteSgaWsSeguridad/target/
